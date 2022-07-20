@@ -20,8 +20,6 @@ Skills: JS / REACT / PHP / LARAVEL / WORDPRESS / HTML / CSS /BOOTSTRAP
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mominulislam14)  
 
-![GitHub metrics](https://metrics.lecoq.io/mominulislam14)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mominulislam14)  
 
 ![Profile views](https://gpvc.arturio.dev/mominulislam14)  
