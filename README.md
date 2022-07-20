@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello, I'm Mominul Islam
 #### I'm a passionate frontend and backend developer.
-Hi,I'm Md Mominul Islam.Studied Computer Science Engineering from Delta University.Developing myself through learning new things.I learn from here to learn from everywhere.In my field of interest, I am still learning and developing my skills.Experienced in JavaScript, React, PHP, Laravel, and WordPress.My featured works are pinned below.
+Hi,I'm Md Mominul Islam.Studied Computer Science Engineering (CSE) from Delta Computer Science College,Rangpur.Developing myself through learning new things.I learn from here to learn from everywhere.In my field of interest, I am still learning and developing my skills.Experienced in JavaScript, React, PHP, Laravel, and WordPress.My featured works are pinned below.
 
 Skills: JS / REACT / PHP / LARAVEL / WORDPRESS / HTML / CSS /BOOTSTRAP
 
