@@ -1,10 +1,5 @@
-### Hi there 👋, Hello, I'm Mominul Islam
-#### I'm a passionate frontend and backend developer.
-Hi,I'm Md Mominul Islam.Studied Computer Science Engineering (CSE) from Delta Computer Science College,Rangpur.Developing myself through learning new things.I learn from here to learn from everywhere.In my field of interest, I am still learning and developing my skills.Experienced in JavaScript, React, Python, Django, PHP, Laravel, and WordPress.My featured works are pinned below.
-
 # 💫 About Me:
-### Hi there 👋, Hello, I'm Mominul Islam<br>#### I'm a passionate frontend and backend developer.<br>Hi,I'm Md Mominul Islam.Studied Computer Science Engineering (CSE) from Delta Computer Science College,Rangpur.Developing myself through learning new things.I learn from here to learn from everywhere.In my field of interest, I am still learning and developing my skills.Experienced in JavaScript, React, Python, Django, PHP, Laravel, and WordPress.My featured works are pinned below.<br><br>Skills: JS / REACT / PYTHON / DJANGO / PHP / LARAVEL / WORDPRESS / HTML / CSS /BOOTSTRAP<br><br>- 🔭 I’m currently working on Suffa Learning Academy <br>- 📫 How to reach me: mdmominulislam369@gmail.com <br>
-
+### Hi there 👋, Hello, I'm Mominul Islam<br>#### I'm a passionate frontend and backend developer.<br>Hi,I'm Md Mominul Islam.Studied Computer Science Engineering (CSE) from Delta Computer Science College,Rangpur.Developing myself through learning new things.I learn from here to learn from everywhere.In my field of interest, I am still learning and developing my skills.Experienced in JavaScript, React, Python, Django, PHP, Laravel, and WordPress.My featured works are pinned below.<br><br>Skills: JS / REACT / PYTHON / DJANGO / PHP / LARAVEL / WORDPRESS / HTML / CSS /BOOTSTRAP
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mominulislam14) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15701773) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mominul.webdev@gmail.com) 
