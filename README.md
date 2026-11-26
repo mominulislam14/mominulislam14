@@ -16,6 +16,8 @@ Production SaaS platform built from architecture to deployment:
 - **Raw Python RAG Engine** with BGE-M3 embeddings, Supabase (`pgvector`), and multilingual guest support
 - **Live Database Rate Injection** & in-chat interactive booking cards (zero third-party booking friction)
 - **Full-Stack Architecture:** FastAPI backend, Next.js + TypeScript + Tailwind CSS frontend, multi-tenant admin dashboard
+- **Production Deployment & CI/CD:** Containerized with Docker Compose on Hetzner Linux VPS, Nginx wildcard reverse proxy (`*.oibayz.com`), Cloudflare, Resend SMTP, and automated GitHub Actions CI/CD
+  
 
 ### 2. [Dubai Real Estate HITL Agent](https://github.com/mominulislam14/dubai-realestate-hitl-agent)
 Stateful **LangGraph** agent workflow featuring corrective RAG, policy guardrails, and human-in-the-loop (HITL) approval checkpoints.
@@ -25,10 +27,11 @@ Stateful **LangGraph** agent workflow featuring corrective RAG, policy guardrail
 ## 🛠️ Core Technical Stack
 
 - **AI Agents & Workflows:** Raw Python Agents, LangGraph, LangChain, LlamaIndex, Tool Calling, Human-in-the-Loop (HITL)
-- **RAG & Vector Search:** Semantic Retrieval, BGE-M3 Embeddings, `pgvector`, FAISS, ChromaDB
+- **RAG & Vector Search:** Semantic Retrieval, BGE-M3 & FastEmbed, `pgvector`, Qdrant, FAISS, ChromaDB
 - **Backend & APIs:** Python, FastAPI, Django, REST APIs, Multi-Tenant SaaS Architecture
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 - **Databases:** PostgreSQL, Supabase, MySQL
+- **Deployment & Infrastructure:** Docker, Docker Compose, Linux VPS (Hetzner), Nginx Reverse Proxy, GitHub Actions (CI/CD), Cloudflare, Resend SMTP
 
 ---
 
